@@ -1,7 +1,7 @@
 # packer-alicloud-isucon
 - isucon用imageをAlibabaCloud上にPackerで作成するためのもの
 
-#＃ 事前準備
+## 事前準備
 
 ### AlibabaCloudのPackerプラグインをインストール(Mac)
 ```
